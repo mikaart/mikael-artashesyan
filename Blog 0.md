@@ -17,5 +17,6 @@ It only took 3 months and a small fender bender with a broken headlight for me t
 trips to junkyard I was already learning how to fix body panels and do your own oil. At that time however I knew that I wanted to get something faster and more engaging,  
 something that would not just drive me but also challenge me as a driver.
 
-As I started working the Pepboys of that year, I made my choice on purchasing 2007 Volkswagen GTi, a family sized hatchback with 6 gear manual transmission and two liter turbocharged engine. That series of events  
+As I started working at Pepboys that same year, I made my choice on purchasing 2007 Volkswagen GTi, a family sized hatchback with 6 gear manual transmission and two liter turbocharged engine. That series of events  
 officially started my journey into automotive world and made me fall in love with it.
+Most of my leisure time became taken up with watching and reading about it. Matter of fact, 
