@@ -1,4 +1,4 @@
-# Blog 3
+# Blog 2
 
 Welcome to new series of Blogs. **Here** is a quick summary of things I've learned this week.
 
@@ -11,7 +11,7 @@ Being around people who buy and sell cars for living gave me the interest in thi
 
 Type triglav.py following keywoards of cars you're looking for. It is important to know that the Python code is written in python3, so it has to be specified unless user is running python3 by default. For example:
 ```
-1. python 3 triglav.py mercedes e350 e500
+1. python3 triglav.py mercedes e350 e500
 2. python3 triglav.py bmw m3 m5 m235i e46
 ```
 ![Image](https://github.com/mikaart/mikael-artashesyan/blob/master/triglav.input.png)
